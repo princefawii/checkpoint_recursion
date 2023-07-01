@@ -1,0 +1,11 @@
+//STEP 1: Identifying the problem to solve, i.e Test if a word is a palindrome. 
+           //A word is a palindrome if only if it can be read from left to right or from right to left: e.g 
+           //MADAM.
+//STEP 2: Declare a function and allow the function to take in string parameter, i.e 
+            //function checkPalindrome(String){}        
+//STEP 3: Find the length of a string, i.e string.length
+//STEP 4: Loop through half of the string, i.e Use FOR LOOP. for(let i = 0; i < string.length / 2; i++)
+//STEP 5: check if first and last string are same
+//STEP 6: Accept input.
+//STEP 7: Call the function 
+//Step 8: Then, it will return either a palindrome or not. 
